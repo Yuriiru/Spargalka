@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
     String[] artistTrack = { "Wildways — Breathless", "Wildways — Lost", "Architects — Giving Blood", "Architects — Animals", "Architects — Black Lungs", "ТАйМСКВЕР — Время первых", "Bad Omens — Like A Villain", "Bad Omens — THE DEATH OF PEACE OF MIND", "Bring Me The Horizon — The House of Wolves", "Bring Me The Horizon — Shadow Moses"};
 
     @Override
-    protected void onCreate(Bundle savedInstanceState) {
+    protected void onCreate(Bundle savedInstanceState)  {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
